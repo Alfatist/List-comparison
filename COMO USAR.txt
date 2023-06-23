@@ -1,2 +1,0 @@
-Você irá colocar a lista de string (separadas por uma quebra de linha) no "lista.txt". Em Seguida, colar a lista de string no "comparacao.txt". 
-O sistema irá pegar tudo o que tiver na primeira lista que não esteja na outra lista.
